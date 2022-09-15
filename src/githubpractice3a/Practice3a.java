@@ -5,6 +5,7 @@ public class Practice3a {
         int a = 10;
         int b = 20;
         int c = a*b;
+        int d = 30;
 
         System.out.println(a);
         System.out.println(b);
@@ -14,5 +15,7 @@ public class Practice3a {
         System.out.println(c+b);
         System.out.println(b/a);
         System.out.println(a*b*c);
+        System.out.println(d);
+
     }
 }
